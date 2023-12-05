@@ -1,3 +1,5 @@
+// Default logger implementation
+
 #ifndef METALL_DEFAULT_LOGGER_IPP
 #define METALL_DEFAULT_LOGGER_IPP
 

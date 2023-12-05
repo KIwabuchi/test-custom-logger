@@ -1,3 +1,5 @@
+// Logger header file
+
 #ifndef METALL_LOGGER_HPP
 #define METALL_LOGGER_HPP
 
@@ -10,6 +12,6 @@ class Logger {
 
 #endif //METALL_LOGGER_HPP
 
-#ifndef USE_CUSTOM_LOGGER
+#ifndef LINK_LOGGER
 #include "default_logger.ipp"
-#endif//USE_CUSTOM_LOGGER
+#endif//LINK_LOGGER
